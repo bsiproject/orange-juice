@@ -1,5 +1,5 @@
 # Landing Page Juice Animation
 
 ## Tampilan Utama
-![Login Background](img/juice.PNG)  
+![Juice Background](img/juice.jpg)  
 --
